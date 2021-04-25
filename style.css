@@ -1,0 +1,10 @@
+h1 {
+    color: rgb(194, 0, 0);
+}
+
+* {
+border: transparent;
+}
+.header{
+background-color: grey;
+}
